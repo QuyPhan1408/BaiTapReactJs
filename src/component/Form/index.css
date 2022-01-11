@@ -1,0 +1,35 @@
+.form{
+    margin: 20px auto;
+    width: 700px;
+    height: 600px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color:thistle;
+
+}
+h1{
+    text-align: center;
+}
+.infomation{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+label{
+    display: block;
+}
+button{
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    outline: none;
+    margin-top:30px;
+    color:white;
+    background-color: red;
+    border-radius: 3px;
+    border: 1px solid;
+    position: relative;
+    right:35%
+}
